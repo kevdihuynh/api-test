@@ -1,4 +1,3 @@
-// src/routes/user.routes.ts
 import { Router } from "express";
 import KeyValueController from "../controllers/keyvalue.controller";
 
